@@ -31,6 +31,7 @@ $mahasiswa = [
 </head>
 
 <body>
+    <h1>Daftar Mahasiswa</h1>
 
     <?php
     array_push(
